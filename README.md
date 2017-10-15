@@ -5,7 +5,7 @@ This scraper will look across all dating websites, after reaching a match on a f
 
 
 Requirements:
-Scapy
+Scrapy
 Requests
 OpenCV
 BeautifulSoup
